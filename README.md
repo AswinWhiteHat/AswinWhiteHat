@@ -2,4 +2,4 @@
 
 - Cyber Security Student at Sona Salem 
 - White Hat 
-<img align="right" width="370" hight="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgeektyper.com%2F&psig=AOvVaw2VGEDjEoD0NNOWeRV899xV&ust=1721279884576000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDJ_7SprYcDFQAAAAAdAAAAABBR">
+<img align="right" width="370" hight="290" src="https://media.gifdb.com/discord-pfp-mysterious-unknown-hacker-h0pj930j5qjqu5m9.gif">
