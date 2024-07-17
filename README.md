@@ -3,7 +3,7 @@
 ### Who Am I?
 Hey there! I'm a **bug bounty hunter** by day and a **college student** by... well, also by day! I love diving deep into code, finding vulnerabilities, and making the digital world a safer place.
 
-![Hacker](https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif)
+![Hacker](https://media.gifdb.com/discord-pfp-mysterious-unknown-hacker-h0pj930j5qjqu5m9.gif)
 
 ### Skills & Tools
 - **Languages**: bash, Python, JavaScript
@@ -25,4 +25,4 @@ Hey there! I'm a **bug bounty hunter** by day and a **college student** by... we
 ### Let's Collaborate
 If you're into ethical hacking, or coding, or just want to say hi, feel free to reach out! I'm always up for a new challenge and love meeting like-minded individuals.
 
-![Hacker Cat](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Hacker Cat](https://i.gifer.com/ZbpB.gif)
