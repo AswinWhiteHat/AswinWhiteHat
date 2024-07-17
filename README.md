@@ -1,14 +1,12 @@
 # Welcome to My GitHub Profile! 👾
 
 ### Who Am I?
-Hey there! I'm a **bug bounty hunter** by day and a **college student** by... well, also by day! I love diving deep into code, finding vulnerabilities, and making the digital world a safer place.
+Hey there! I'm a **White Hat Hacker** by day and a **college student** by... well, also by day! I love diving deep into code, finding vulnerabilities, and making the digital world a safer place.
 
 ![Hacker](https://media.giphy.com/media/26gsspfZbBzCmYgso/giphy.gif)
 
-### Skills & Tools
-- **Languages**: Bash, Python, JavaScript
-- **Tools**: Burp Suite, Nmap, Wireshark, Metasploit, Git
-- **Hobbies**: Hacking, Reading, Traveling
+### I code in 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
 
 ### Connect with Me
 - [Instagram](https://www.instagram.com)
@@ -23,7 +21,7 @@ Hey there! I'm a **bug bounty hunter** by day and a **college student** by... we
 > "The quieter you become, the more you are able to hear." - Anonymous
 
 ### Let's Collaborate
-If you're into ethical hacking, coding, or just want to say hi, feel free to reach out! I'm always up for a new challenge and love meeting like-minded individuals.
+If you're into ethical hacking, or coding, or just want to say hi, feel free to reach out! I'm always up for a new challenge and love meeting like-minded individuals.
 
 ![Hacker Cat](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 
