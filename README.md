@@ -5,8 +5,11 @@ Hey there! I'm a **White Hat Hacker** by day and a **college student** by... wel
 
 ![Hacker](https://media.giphy.com/media/26gsspfZbBzCmYgso/giphy.gif)
 
-### I code in 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+### I Code 
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+
+### Tool I Use 
+<img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
 
 ### Connect with Me
 - [Instagram](https://www.instagram.com)
