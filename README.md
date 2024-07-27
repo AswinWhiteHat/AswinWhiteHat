@@ -3,7 +3,7 @@
 ### Who Am I?
 Hey there! I'm a **White Hat Hacker** by day and a **college student** by... well, also by day! I love diving deep into code, finding vulnerabilities, and making the digital world a safer place.
 
-<img width="100" height="100" src="https://i.gifer.com/3Pqq.gif" alt="hacker-gif"/>
+<img width=“50” height=“50” src="https://i.gifer.com/BB5g.gif" alt=“gif”/>
 
 ### I Code 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
