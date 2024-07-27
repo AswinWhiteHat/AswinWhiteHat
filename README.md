@@ -24,4 +24,4 @@ Hey there! I'm a **White Hat Hacker** by day and a **college student** by... wel
 ### Let's Collaborate
 If you're into ethical hacking, coding, or just want to say hi, feel free to reach out! I'm always up for a new challenge and love meeting like-minded individuals.
 
-<img width="100" height="100" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="hacker-gif"/>
+<img width="100" height="100" src="https://i.gifer.com/BB5g.gif" alt="hacker-gif"/>
