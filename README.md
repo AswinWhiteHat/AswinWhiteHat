@@ -1,27 +1,21 @@
-# Welcome to My GitHub Profile! 👾
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
-### Who Am I?
-Hey there! I'm a **White Hat Hacker** by day and a **college student** by... well, also by day! I love diving deep into code, finding vulnerabilities, and making the digital world a safer place.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+  </a>
+</div>
+<!--
+<h3 align="center">AswinWhiteHate<p align="right"></h3> -->
 
-![This is brocken](https://i.gifer.com/BB5g.gif)
 
-### I Code 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
-### Tools I Use 
-<img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/burp-suite.png" alt="burp-suite"/>
 
-### Operating System
-<img width="100" height="100" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/> 
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
-### Connect with Me
-- [Instagram](https://www.instagram.com)
-- [Email](mailto:aswinsriram80@gmail.com)
-
-### Fun Fact
-> "The quieter you become, the more you are able to hear." - Anonymous
-
-### Let's Collaborate
-If you're into ethical hacking, coding, or just want to say hi, feel free to reach out! I'm always up for a new challenge and love meeting like-minded individuals.
-
-<img width="100" height="100" src="https://i.gifer.com/BB5g.gif" alt="hacker-gif"/>
+I'm **[Aswin](https://github.com/AswinWhiteHat)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
