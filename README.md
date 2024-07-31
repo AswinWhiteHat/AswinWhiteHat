@@ -1,12 +1,12 @@
 # 👾 Welcome to My Hacking Haven 👾
 
-![Hacker Banner](https://example.com/your-banner-image.png)
+![Hacker Banner](https://png.pngtree.com/thumb_back/fw800/background/20220908/pngtree-web-crime-concept-anonymous-internet-hacker-operating-a-computer-photo-image_39023936.jpg)
 
 Hello, world! I'm [Your Name], a passionate bug bounty hunter and cybersecurity enthusiast. Welcome to my GitHub profile, where you'll find projects and tools related to hacking, penetration testing, and cybersecurity.
 
 ## 🔥 About Me
 
-- **🎓 Education:** [Your University/College]
+- **🎓 Education:** [Sonaarts/BSc.cybersecurity]
 - **👨‍💻 Bug Bounty Hunter:** Focused on web application security and vulnerability research.
 - **💻 Skills:** C, Python, Bash, JavaScript, Networking, and Security Tools.
 - **🌐 Languages:** Tamil, English
@@ -14,28 +14,21 @@ Hello, world! I'm [Your Name], a passionate bug bounty hunter and cybersecurity 
 
 ## 🔧 Tools & Technologies
 
-- **Operating Systems:** Kali Linux, Parrot OS, Windows
-- **Penetration Testing:** Burp Suite, Nmap, Metasploit, OWASP ZAP
-- **Reverse Engineering:** Ghidra, IDA Pro
-- **Web Development:** HTML, CSS, JavaScript, Flask
-- **Cloud Security:** AWS, Azure
+- **Operating Systems:** Kali Linux, Windows/wsl
+- **Penetration Testing:** Burp Suite, Nmap, Metasploit, 
+- **Web Development:** HTML, CSS, JavaScript, 
+- **Cloud Security:** AWS, 
 
 ## 📚 Currently Learning
 
 - **C Programming:** Sharpening my low-level programming skills.
 - **Advanced Exploitation Techniques**
-- **Tamil Literature:** 1 hour daily reading session.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+- 
 ## 🔗 Let's Connect
 
-- **Blog:** [Your Blog](https://yourblog.com)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter:** [Your Twitter](https://twitter.com/yourhandle)
+- **Insta:** [Insta](https://yourblog.com)
+- **Gmail:** [My Gmail](https://linkedin.com/in/yourprofile)
+
 
 ---
 
