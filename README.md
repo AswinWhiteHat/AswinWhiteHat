@@ -1,6 +1,6 @@
 # 👾 Welcome to My Hacking Haven 👾
 
-![Hacker Banner](https://toppng.com/uploads/preview/hackers-logo-115562866693df8w4ldyb.png)
+![Hacker Banner](https://gifdb.com/images/high/computer-loading-icon-hacking-6sgva6f2e6dxwviu.gif)
 
 Hello, world! I'm Aswin, a passionate bug bounty hunter and security researcher. Welcome to my GitHub profile...
 
