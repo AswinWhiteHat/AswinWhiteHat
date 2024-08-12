@@ -21,12 +21,11 @@ Hello, world! I'm Aswin, a passionate bug bounty hunter and security researcher.
 
 ## 📚 Currently Learning
 
-- **C Programming:** Sharpening my low-level programming skills.
-- **Advanced Exploitation Techniques**
-- 
+- **Bash** Sharpening my Scripting skills.
+ 
 ## 🔗 Let's Connect
 
-- **Insta:** [Insta](https://www.instagram.com/a_s_s_h_u_1_5/?utm_source=qr&igsh=M2J1c3htMTJ5bjdw)
+- **Instagram.com** [Instagram](https://www.instagram.com/a_s_s_h_u_1_5/?utm_source=qr&igsh=M2J1c3htMTJ5bjdw)
 - **Gmail:** [My Gmail](aswinsriram80@gmail.com)
 
 
