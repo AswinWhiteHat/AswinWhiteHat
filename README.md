@@ -26,8 +26,8 @@ Hello, world! I'm Aswin, a passionate bug bounty hunter and security researcher.
 - 
 ## 🔗 Let's Connect
 
-- **Insta:** [Insta](https://yourblog.com)
-- **Gmail:** [My Gmail](https://linkedin.com/in/yourprofile)
+- **Insta:** [Insta](https://www.instagram.com/a_s_s_h_u_1_5/?utm_source=qr&igsh=M2J1c3htMTJ5bjdw)
+- **Gmail:** [My Gmail](aswinsriram80@gmail.com)
 
 
 ---
