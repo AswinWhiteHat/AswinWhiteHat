@@ -1,14 +1,14 @@
 # 👾 Welcome to My Hacking Haven 👾
 
-![Hacker Banner](https://gifdb.com/images/high/computer-loading-icon-hacking-6sgva6f2e6dxwviu.gif)
-
 Hello, world! I'm Aswin, a passionate bug bounty hunter and security researcher. Welcome to my GitHub profile...
+
+![Hacker Banner](https://gifdb.com/images/high/computer-loading-icon-hacking-6sgva6f2e6dxwviu.gif)
 
 ## 🔥 About Me
 
 - **🎓 Education:** [Sonaarts/BSc.cybersecurity]
 - **👨‍💻 Bug Bounty Hunter:** Focused on web application security and vulnerability research.
-- **💻 Skills:** C, Python, Bash, JavaScript, Networking, and Security Tools.
+- **💻 Skills:** Python, Bash, JavaScript, Networking, and Security Tools.
 - **🌐 Languages:** Tamil, English
 - **⏰ Routine:** Balancing my time between college, hacking, and learning new skills.
 
