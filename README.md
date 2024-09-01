@@ -33,4 +33,4 @@ Hello, world! I'm Aswin, a passionate bug bounty hunter and security researcher.
 
 > "Stay curious, keep hacking, and remember—knowledge is the ultimate weapon."
 
-![Banner](https://image.similarpng.com/very-thumbnail/2020/06/Hacker-hacking-the-internet-on-transparent-background-PNG.png)
+![Banner]()
