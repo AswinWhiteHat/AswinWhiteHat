@@ -7,28 +7,25 @@ Hello, world! I'm Aswin, a passionate bug bounty hunter and security researcher.
 
 ## 🔥 About Me
 
-- **🎓 Education:** [Sonaarts/BSc.cybersecurity]
+- **🎓 Education:** BSc.Computer Science. Cybersecurity dropped out
 - **👨‍💻 Bug Bounty Hunter:** Focused on web application security and vulnerability research.
 - **💻 Skills:** Python, Bash, JavaScript, Networking, and Security Tools.
-- **🌐 Languages:** Tamil, English
-- **⏰ Routine:** Balancing my time between college, hacking, and learning new skills.
 
 ## 🔧 Tools & Technologies
 
 - **Operating Systems:** Kali Linux, Windows/wsl
-- **Penetration Testing:** Burp Suite, Nmap, Metasploit, 
+- **Penetration Testing:** Burp Suite, Nmap, Metasploit, ZAP 
 - **Web Development:** HTML, CSS, JavaScript, 
 - **Cloud Security:** AWS, 
 
 ## 📚 Currently Learning
 
-- **Bash** Sharpening my Scripting skills.
- 
+- **Bash** Sharpening My Scripting skills.
+- **BBH** Mastering My Bug Hunting skills
+  
 ## 🔗 Let's Connect
 
 - **Instagram.com** [Instagram](https://www.instagram.com/a_s_s_h_u_1_5/?utm_source=qr&igsh=M2J1c3htMTJ5bjdw)
-- **Gmail:** [My Gmail](aswinsriram80@gmail.com)
-
 
 ---
 
