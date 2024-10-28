@@ -4,20 +4,4 @@
 ### 👨‍💻 Bug Bounty Hunter | Ethical Hacker | 
 
 
-### 📈 GitHub Highlights
-
-- **[Bug Bounty Payloads and Commands](https://github.com/YourGitHubHandle)** - Repository with organized payloads and useful commands for ethical hacking and bug bounty hunting
-- **[Bash Scripts](https://github.com/YourGitHubHandle)** - Collection of custom scripts to automate and simplify repetitive tasks
-
----
-
-### 📬 Connect with Me
-
-Feel free to reach out if you're interested in discussing cybersecurity, bug bounty hunting, or collaborating on a project!
-
-[LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com) | [Email](mailto:aswin@example.com)
-
----
-
-Thank you for visiting my GitHub! 🚀
 
